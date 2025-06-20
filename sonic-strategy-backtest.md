@@ -12,3 +12,7 @@
 | Max Win Streak       | 6       |
 | Max Loss Streak      | 5       |
 | Test Duration (Days) | 227     |
+| Avg Days per Trade   | 4.83    |
+| Max Drawdown (%)     | -0.13%  |
+| Max Stoploss (%)     | -4.44%  |
+
